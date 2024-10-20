@@ -18,7 +18,6 @@ int main() {
         printf("%d moeda(s) de R$ %.2lf\n", valor/trococent[i], trococent[i]/100.0);
         valor %= trococent[i];
     }
-
     return 0;
 }
 
