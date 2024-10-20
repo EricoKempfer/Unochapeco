@@ -19,8 +19,6 @@ int main()
     for(i=0;i<5;i++){
         printf("%d\n", v[i]);
     }
-   
     
-
     return 0;
 }
